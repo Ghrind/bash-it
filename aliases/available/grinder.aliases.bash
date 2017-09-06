@@ -1,0 +1,5 @@
+alias top="htop"
+alias ll="ls -lsh"
+alias l="ls -lsh"
+alias ls="ls --color=auto"
+alias v="vim -p"
