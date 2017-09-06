@@ -158,7 +158,7 @@ Alternately, if you would like to keep your custom scripts under version control
 
 ## Themes
 
-There are over 50+ Bash-it themes to pick from in `.bash_it/themes`. The default theme is `bobby`.  Set `BASH_IT_THEME` to the theme name you want, or if you've developed your own custom theme outside of `.bash_it/themes`, point the `BASH_IT_THEME` variable directly to the theme file.
+There are over 50+ Bash-it themes to pick from in `.bash_it/themes`. The default theme is `grinder`.  Set `BASH_IT_THEME` to the theme name you want, or if you've developed your own custom theme outside of `.bash_it/themes`, point the `BASH_IT_THEME` variable directly to the theme file.
 
 Examples:
 
